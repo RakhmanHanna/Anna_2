@@ -68,6 +68,7 @@ header nav a {
     color: #FFFFFF;
     text-decoration: none;
     padding: 40px 20px;
+    display: inline-block;
 }
 
 header nav a:hover {
@@ -524,4 +525,9 @@ footer a {
 }
 footer p {
     margin-right: 12.6px;
+}
+.links a:before,
+.our-prjs a:before,
+.social-media a:before {
+    content: "> ";
 }
