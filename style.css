@@ -19,7 +19,7 @@
     src: url(./fonts/Montserrat-Regular.woff2);
 }
 body {
-    font-family: "Montserrat Medium";
+    font-family: Montserrat Medium;
 }
 
 * {
